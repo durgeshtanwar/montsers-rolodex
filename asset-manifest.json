@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/montsers-rolodex/static/css/main.25816464.chunk.css",
+    "main.js": "/montsers-rolodex/static/js/main.11bf881f.chunk.js",
+    "main.js.map": "/montsers-rolodex/static/js/main.11bf881f.chunk.js.map",
+    "runtime-main.js": "/montsers-rolodex/static/js/runtime-main.eb3bc6bb.js",
+    "runtime-main.js.map": "/montsers-rolodex/static/js/runtime-main.eb3bc6bb.js.map",
+    "static/js/2.3e63af55.chunk.js": "/montsers-rolodex/static/js/2.3e63af55.chunk.js",
+    "static/js/2.3e63af55.chunk.js.map": "/montsers-rolodex/static/js/2.3e63af55.chunk.js.map",
+    "index.html": "/montsers-rolodex/index.html",
+    "static/css/main.25816464.chunk.css.map": "/montsers-rolodex/static/css/main.25816464.chunk.css.map",
+    "static/js/2.3e63af55.chunk.js.LICENSE.txt": "/montsers-rolodex/static/js/2.3e63af55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb3bc6bb.js",
+    "static/js/2.3e63af55.chunk.js",
+    "static/css/main.25816464.chunk.css",
+    "static/js/main.11bf881f.chunk.js"
+  ]
+}
